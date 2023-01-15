@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXE2SHELLCODE", "EXE2SHELLCODE\EXE2SHELLCODE.csproj", "{860B03B8-C5A1-426E-A19C-D28F511405FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860B03B8-C5A1-426E-A19C-D28F511405FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860B03B8-C5A1-426E-A19C-D28F511405FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860B03B8-C5A1-426E-A19C-D28F511405FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860B03B8-C5A1-426E-A19C-D28F511405FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8630BD-1B08-4517-AFAC-D0D31615CDA7}
+	EndGlobalSection
+EndGlobal
